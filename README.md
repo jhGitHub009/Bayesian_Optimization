@@ -11,7 +11,8 @@ The notebook "baysian_optimization.ipynb" introduces how to find the best hyperp
 4. search best learning rate for linear regression using baysian optimization.
 5. search best learning rate for linear regression using grid searching.
 6. search best learning rate for linear regression using random searching.
-
+## Grid Search
+![Grid_searching_screenshot](./Grid_search.png)
 ## Conclusion
 For complex ML model, the baysian optimization is good but for simple, is not.
 For simple ML model, Let's use the random search.
